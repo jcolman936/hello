@@ -1,4 +1,8 @@
 /**
+ * Author: Jaedyn Colman
+ *         jcolman2@huskers.unl.edu
+ * Date: 2025/09/23
+ *
  * Basic Hello World Program
  */
 #include <stdlib.h>
